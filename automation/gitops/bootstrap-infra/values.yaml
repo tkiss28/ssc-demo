@@ -56,7 +56,7 @@ deployer:
   apiUrl: ""
 
 gitops:
-  repoUrl: "https://github.com/lzspangler/ssc-demo.git"
+  repoUrl: "https://github.com/tkiss28/ssc-demo.git"
   revision: "ssc-demo"
   basePath: "automation/gitops"
   # The Tekton resources are NOT under basePath -- they live at the repo root,
